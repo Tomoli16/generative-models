@@ -152,3 +152,5 @@ pnpm-lock.yaml
 # ignore any folder or file containing 'figures' in its name
 *figures*/
 *figures*
+
+/expected_results
