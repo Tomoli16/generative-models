@@ -153,4 +153,4 @@ pnpm-lock.yaml
 *figures*/
 *figures*
 
-/expected_results
+expected_results/
